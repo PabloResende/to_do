@@ -43,3 +43,17 @@ button i {
 input, select {
     padding: 0.25rem, 0.5rem;
 }
+
+.hide {
+    /* display: none; */
+}
+
+/* header */
+
+.todo-container {
+    max-width: 450px;
+    margin: 3rem auto;
+    background-color: #fdfdfd;
+    padding: 1.5rem;
+    border-radius: 15px;
+}
